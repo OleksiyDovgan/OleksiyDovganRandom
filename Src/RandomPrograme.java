@@ -22,7 +22,7 @@ public class RandomPrograme {
 
         System.out.println("Random number = " + randNum);
 
-        System.out.println("ad = " + sumNumber);
+        System.out.println("Ad all number = " + sumNumber);
 
     }
 
